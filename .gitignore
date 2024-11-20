@@ -1,0 +1,16 @@
+bin/
+obj/
+.vs/
+
+**/wwwroot/dist/
+!**/**/wwwroot/dist/azurewebexplorer.css
+**/Properties/launchSettings.json
+
+*.user
+*.suo
+
+__azurite*.json
+private*.data
+
+.DS_Store
+azurestorageexplorer.sln
